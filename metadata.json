@@ -1,0 +1,6 @@
+{
+  "name": "VIET DISCOVER — Khám Phá Ẩm Thực và Văn Hóa Việt Nam",
+  "description": "Chạm vào hương vị — Khám phá linh hồn Việt. Nền tảng chuyên sâu khám phá ẩm thực 3 miền, di sản, phong tục, bản đồ tương tác và trò chơi câu đố văn hóa Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
